@@ -1,2 +1,0 @@
-# Arcade_Leaderboard
-GCAF
