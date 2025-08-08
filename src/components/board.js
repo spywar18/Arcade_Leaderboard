@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import Profiles from './profiles';
 import { Leaderboard } from './database';
-
 export default function Board() {
 
     const [period, setPeriod] = useState(0);
@@ -26,8 +25,6 @@ export default function Board() {
     </div>
   )
 }
-
-
 
 function between(data, between){
     const today = new Date();
