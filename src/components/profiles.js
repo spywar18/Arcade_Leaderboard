@@ -1,5 +1,4 @@
 import React from 'react'
-
 export default function profiles({ Leaderboard }) {
   return (
         <div id="profile">
@@ -7,7 +6,6 @@ export default function profiles({ Leaderboard }) {
         </div>
   )
 }
-
 function Item(data){
     return (
 
